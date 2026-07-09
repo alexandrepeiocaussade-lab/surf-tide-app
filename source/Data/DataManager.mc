@@ -70,7 +70,7 @@ class DataManager {
     }
 
     function getProxyUrl() {
-        return "https://surftide-proxy.onrender.com";
+        return "https://surf-tide-app.onrender.com";
     }
 
     function getTodayData() {
