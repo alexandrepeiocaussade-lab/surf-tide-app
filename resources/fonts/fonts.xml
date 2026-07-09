@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fonts>
+    <font id="TideIcons" name="tide-icons" filename="tide-icons" antialias="true"/>
+    <font id="SurfIcons" name="surf-icons" filename="surf-icons" antialias="true"/>
+    <font id="WindArrows" name="wind-arrows" filename="wind-arrows" antialias="true"/>
+</fonts>

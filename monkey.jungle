@@ -1,0 +1,24 @@
+project.manifest = manifest.xml
+project.type = watchapp
+
+project.appBaseName = SurfTide
+
+source.0 = source/App.mc
+source.1 = source/DataField.mc
+source.2 = source/Views/MainView.mc
+source.3 = source/Views/MultiDayView.mc
+source.4 = source/Views/SettingsView.mc
+source.5 = source/Models/Models.mc
+source.6 = source/Data/DataManager.mc
+source.7 = source/Data/ApiParser.mc
+
+resource.0 = resources/strings/strings.xml
+resource.1 = resources/fonts/fonts.xml
+
+output.0 = bin/SurfTide.prg
+
+devices = fr165,fr265,fr265s,fr955,fr965,ven3,enix7
+
+apiVersion = 4.1.5
+
+jungle.platform = utf8array

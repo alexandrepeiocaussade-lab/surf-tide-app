@@ -1,0 +1,5 @@
+bin/
+*.prg
+*.iq
+node_modules/
+.env

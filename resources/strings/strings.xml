@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string id="AppName">Surf &amp; Tide</string>
+    <string id="AppLabel">Surf&amp;Tide</string>
+
+    <string id="Loading">Chargement...</string>
+    <string id="Syncing">Synchronisation</string>
+
+    <string id="TideTitle">MARÉES</string>
+    <string id="TideHigh">PM</string>
+    <string id="TideLow">BM</string>
+    <string id="TideCoefficient">Coeff</string>
+    <string id="TideNoData">Aucune donnée marée</string>
+    <string id="TideUnavailable">Non disponible</string>
+
+    <string id="SurfTitle">VAGUES</string>
+    <string id="SurfAverage">Moy</string>
+    <string id="SurfHeight">Hauteur</string>
+    <string id="SurfNoData">Aucune donnée vague</string>
+    <string id="SurfUnavailable">Non disponible</string>
+
+    <string id="WindTitle">VENT</string>
+
+    <string id="SettingsTitle">Paramètres</string>
+    <string id="SettingsCity">Ville:</string>
+    <string id="SettingsBeach">Plage:</string>
+    <string id="SettingsTap">Appuyer pour changer</string>
+    <string id="SettingsSwipe">Glisser pour naviguer</string>
+
+    <string id="SwipeHint">Glisser pour + de jours</string>
+    <string id="NoData">Aucune donnée</string>
+    <string id="NoTide">Pas de marée</string>
+
+    <string id="Refresh">Rafraîchir</string>
+    <string id="Next">Suivant</string>
+    <string id="Prev">Précédent</string>
+    <string id="Back">Retour</string>
+
+    <string id="UnitMeter">m</string>
+    <string id="UnitKmh">km/h</string>
+    <string id="UnitSeconds">s</string>
+</resources>
